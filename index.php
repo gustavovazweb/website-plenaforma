@@ -212,7 +212,7 @@
       </div>
       <!--FORM-->
       <div class="contact-form">
-        <form method="post" action="mail.php">
+        <form method="post" action="email.php">
         <fieldset class="form-grid">
           <legend>Nos envie uma mensagem</legend>
           <div class="form-group">
